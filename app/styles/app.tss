@@ -1,0 +1,10 @@
+"Window": {
+	backgroundColor:"#FFFFFF",
+	theme: "materialTheme"
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#212121"
+} 

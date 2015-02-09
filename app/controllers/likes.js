@@ -1,6 +1,17 @@
 var args = arguments[0] || {};
 
 /**
+ * Simple Alert
+ */
+function doAlert (e) {
+	Ti.UI.createAlertDialog({
+    message: e.source.text,
+    ok: 'Okay',
+    title: 'AlertDialog'
+  }).show();
+}
+
+/**
  * Callback for Android OptionsMenu
  */
 function onCreateOptionsMenu(e) {

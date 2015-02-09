@@ -1,5 +1,5 @@
 <Alloy>
     <View>
-        <Label text="Likes view" />
+        <Label onClick="doAlert" text="Likes view" />
     </View>
 </Alloy>

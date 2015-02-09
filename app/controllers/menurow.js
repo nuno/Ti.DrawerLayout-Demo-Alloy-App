@@ -27,7 +27,7 @@ function init() {
  * @param {Boolean} active
  */
 $.menurow.setActive = function(_active) {
-  $.menurow.setBackgroundColor( _active ? "#333333" : "#3F3D3D" );
+  $.menurow.setBackgroundColor( _active ? "#3F3D3D" : "#212121" );
 };
 
 init();

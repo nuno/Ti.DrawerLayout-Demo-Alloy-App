@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<style name="materialTheme" parent="@style/Theme.AppCompat.Light">
+  <item name="android:dialogTheme">@style/MyDialogStyle</item>
+  <item name="android:alertDialogTheme">@style/MyDialogStyle</item>
+<!--<item name="android:statusBarColor">@android:color/transparent</item>-->
+  <item name="colorPrimary">@color/primary</item>
+  <item name="colorPrimaryDark">@color/primary_dark</item>
+  <item name="colorAccent">@color/accent</item>
+  <item name="android:textColorPrimary">@color/text_primary</item>
+  <item name="android:textColor">@color/text_secondary</item>
+  <item name="android:navigationBarColor">@color/primary_dark</item>
+</style>
+<style name="MyDialogStyle" parent="android:Theme.Material.Light.Dialog">
+  <item name="android:colorPrimary">@color/primary_light</item>
+  <item name="android:colorPrimaryDark">@color/primary_dark</item>
+  <item name="android:colorAccent">@color/accent</item>
+</style>
+
+  <color name="primary">#673ab7</color>
+  <color name="primary_light">#C8E6C9</color>
+  <color name="primary_dark">#512da8</color>
+  <color name="accent">#5c46a5</color>
+  <color name="text_primary">#D9FFFFFF</color>
+  <color name="text_secondary">#D9000000</color>
+  <color name="icons">#ffc400</color>
+  <color name="divider">#673ab7</color>
+</resources>
