@@ -20,7 +20,7 @@ Do not forget to change the sdk version in tiapp.xml according.
 
 
 
-#Demo App for [Ti.DrawerLayout](https://github.com/manumaticx/Ti.DrawerLayout)
+# wintest.apk Demo App for [Ti.DrawerLayout](https://github.com/nuno/Ti.DrawerLayout-Demo-Alloy-App/wintest.apk)
 
 This is a demo application for showing how to use [https://github.com/manumaticx/Ti.DrawerLayout](https://github.com/manumaticx/Ti.DrawerLayout)
 
