@@ -1,5 +1,7 @@
 #Support Android 5 L 
 
+![](ThemeColors.png)
+
 ## What you will need.
 You will need to update your **android tools and grab the android 21 version**, you can do that via Studio.
 
@@ -20,7 +22,7 @@ Do not forget to change the sdk version in tiapp.xml according.
 
 
 
-# wintest.apk Demo App for [Ti.DrawerLayout](https://github.com/nuno/Ti.DrawerLayout-Demo-Alloy-App/wintest.apk)
+# "wintest.apk" Demo App for [Ti.DrawerLayout](https://github.com/nuno/Ti.DrawerLayout-Demo-Alloy-App/blob/master/wintest.apk)
 
 This is a demo application for showing how to use [https://github.com/manumaticx/Ti.DrawerLayout](https://github.com/manumaticx/Ti.DrawerLayout)
 
