@@ -4,7 +4,7 @@ var args = arguments[0] || {};
  * Simple Alert
  */
 function doAlert (e) {
-	Ti.UI.createAlertDialog({
+	Ti.UI.createOptionDialog({
     message: e.source.text,
     ok: 'Okay',
     title: 'AlertDialog'
